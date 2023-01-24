@@ -1,0 +1,33 @@
+/* div.box { */
+    /* height: 300px; */
+    /* width: 300px; */
+    /* background-color: #bbbbaa;} */
+    /* p { */
+    /* height: 75%; */
+    /* width: 75%; */
+    /* background-color: #0088dd;} */
+    /* .box { */
+        /* ba
+ckground-color: aqua; */
+        /* height: 50px; */
+
+        /* overflow: vis
+ible; */
+    /* } */
+    /* .box { */
+        /* background-color: aqua; */
+        /* border-width: 3px; */
+        /* border-color: #000; */
+        /* border-style: solid; */
+    /* border-bottom: 1px #000 solid; */
+    /* } */
+    .box-1 {
+ width: 100px;
+ height: 100px;
+ background-color: black;
+    }
+    .box-2 {
+        width: 100px;
+        height: 100px;
+        background-color: black;
+    }
