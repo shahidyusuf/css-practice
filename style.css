@@ -21,7 +21,7 @@ ible; */
         /* border-style: solid; */
     /* border-bottom: 1px #000 solid; */
     /* } */
-    .box-1 {
+    /* .box-1 {
  width: 100px;
  height: 100px;
  background-color: black;
@@ -30,4 +30,14 @@ ible; */
         width: 100px;
         height: 100px;
         background-color: black;
+    } */
+    .box {
+     border: 1px solid #000;  
+    }
+    .parent {
+        border: 1px solid #000;
+    }
+    .child {
+        border: 1px solid #000;
+        width: 100px;
     }
